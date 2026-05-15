@@ -1,16 +1,12 @@
 title: Deadline Pro
 description: A private, offline date calculator and deadline tracker for iOS.
-url: ""
-baseurl: ""
 
-# Use no theme — we ship our own layout + CSS in this repo.
-theme: null
-plugins: []
+# REQUIRED for GitHub Pages project sites — paths break without this.
+# Site is served at https://raihaniabd.github.io/deadline-pro/
+baseurl: "/deadline-pro"
 
-# Files Jekyll should ignore.
 exclude:
   - README.md
-  - .gitignore
 
 defaults:
   - scope:
