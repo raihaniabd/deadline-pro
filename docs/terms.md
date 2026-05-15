@@ -1,7 +1,15 @@
+---
+layout: default
+title: Terms of Use
+description: The license, disclaimers and use-at-your-own-risk reminders for Deadline Pro.
+permalink: /terms/
+---
+
+<div class="legal-page" markdown="1">
+
 # Terms of Use
 
-**Effective date:** 2026-05-11
-**Last updated:** 2026-05-11
+<p class="legal-meta">Effective date: 2026-05-11 · Last updated: 2026-05-11</p>
 
 These terms apply to your use of Deadline Pro ("the app"). The app is distributed through the Apple App Store. In addition to these terms, Apple's standard End User License Agreement applies to your installation of the app (available at https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). Where the two conflict, Apple's EULA takes precedence on points it covers.
 
@@ -50,3 +58,6 @@ These terms are governed by the laws of the developer's country of residence, wi
 ## Contact
 
 Questions about these terms: **abdessamad.raihani@outlook.com**.
+
+</div>
+

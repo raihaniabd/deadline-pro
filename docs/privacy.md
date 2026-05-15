@@ -1,7 +1,15 @@
+---
+layout: default
+title: Privacy Policy
+description: How Deadline Pro handles data — short version, we don't collect any.
+permalink: /privacy/
+---
+
+<div class="legal-page" markdown="1">
+
 # Privacy Policy
 
-**Effective date:** 2026-05-11
-**Last updated:** 2026-05-11
+<p class="legal-meta">Effective date: 2026-05-11 · Last updated: 2026-05-11</p>
 
 ## The short version
 
@@ -59,3 +67,6 @@ If we ever materially change this policy, we will update the effective date abov
 ## Contact
 
 For any privacy question, email **abdessamad.raihani@outlook.com**.
+
+</div>
+
