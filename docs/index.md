@@ -1,4 +1,4 @@
 # Deadline Pro — Legal
 
-- [Privacy Policy](./privacy.md)
-- [Terms of Use](./terms.md)
+- [Privacy Policy](./privacy)
+- [Terms of Use](./terms)
